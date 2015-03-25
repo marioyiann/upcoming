@@ -152,11 +152,11 @@ Find me on: [Twitter](https://twitter.com/marioyiann), [Google+](https://plus.go
 
 Upcoming is under MIT license. 
 
-**Thanks and Respect to all external resources!**
-Bootstrap: http://getbootstrap.com/
-Fontawesome: http://fontawesome.io/
-Logo font: http://absolutfoundry.com/fonts/mohave
-Countdown:  http://devingredients.com/jcounter/
-Background slider: http://vegas.jaysalvat.com/
-Background photos: https://unsplash.com/austinban
-Mailchimp: http://designshack.net/articles/css/custom-mailchimp-email-signup-form/
+**Thanks and Respect to all external resources!** <br />
+Bootstrap: http://getbootstrap.com/ <br />
+Fontawesome: http://fontawesome.io/ <br />
+Logo font: http://absolutfoundry.com/fonts/mohave <br />
+Countdown:  http://devingredients.com/jcounter/ <br />
+Background slider: http://vegas.jaysalvat.com/ <br />
+Background photos: https://unsplash.com/austinban <br />
+Mailchimp: http://designshack.net/articles/css/custom-mailchimp-email-signup-form/ <br />

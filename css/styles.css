@@ -1,0 +1,171 @@
+/*
+Theme name: UPCOMING
+Theme URI: http://marioyiann.com/demo/upcoming/
+Author: Marios Yiannakopoulos
+Author URI: http://marioyiann.com
+Description: Free Theme with countdown timer, by marioyiann
+Version: 1.0
+*/
+
+/* ==========================================================================
+   HTML BASICS
+   ========================================================================== */
+html {
+  position: relative;
+  min-height: 100%;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+  color: #fff;
+  background: #000;
+  margin-bottom: 60px;
+}
+
+/* ==========================================================================
+   LINKS
+   ========================================================================== */
+a:link { 
+  color: #fff;
+  text-decoration: none;
+  -webkit-transition: .2s linear;
+  -moz-transition: .2s linear;
+  -ms-transition: .2s linear;
+  transition: .2s linear;
+}
+
+a:visited {
+  color: #fff;
+}
+
+a:hover {
+  color: #ef4e4e;
+  opacity: .7;
+  text-decoration: none;
+}
+
+a:focus {
+  outline: none;
+  text-decoration: none;
+}
+
+/* ==========================================================================
+   HEADINGS
+   ========================================================================== */
+h1 {
+  font-size: 2.6em;
+  font-weight: lighter;
+}
+
+h2 {
+  font-size: 2em;
+  font-weight: lighter;
+}
+
+/* ==========================================================================
+   HEADER
+   ========================================================================== */
+.logo {
+  width: 150px;
+  height: 35px;
+  float: left;  
+  margin: 30px auto;
+  display: block;
+}
+
+.socialmedia {
+  margin-top: 35px;
+  text-align: right;    
+}
+
+.socialmedia .fa {
+  font-size: 1.5em;
+  line-height: 1.5em;
+  margin: 0 10px;
+  height: auto;
+}
+
+/* ==========================================================================
+   MAIN SECTION
+   ========================================================================== */
+main {
+  margin-top: 8%;
+}
+
+.msg {
+  text-align: center;
+}
+
+.countdown {
+  font-size: 4.2em;
+  font-weight: lighter;
+  text-align: center;
+}
+
+.countdown.col-xs-3 {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+p.textDays, p.textHours, p.textMinutes, p.textSeconds {
+  margin: 1px auto;  
+  font-size: .3em;
+  font-weight: normal;
+}
+
+/* ==========================================================================
+   FOOTER
+   ========================================================================== */
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  height: 60px;
+}
+
+.copyright {
+  margin-top: 25px;
+  font-size: 1em;
+  text-align: center;
+}
+
+/* ==========================================================================
+   MEDIA QUERIES
+   ========================================================================== */
+@media only screen and (max-width : 768px) {
+  h1 {
+    font-size: 1.5em;
+  }
+
+  h2 { 
+    font-size: 1.3em;
+  }
+
+  main {
+    margin-top: 5%;
+  }
+
+  .logo {
+    margin: 20px auto;
+    float: none;
+  }
+  
+  .socialmedia {
+    text-align: center;
+    margin: 10px auto;
+  }
+  
+  .countdown {
+    font-size: 3em;
+  }
+
+  .copyright {
+    font-size: 0.9em;
+  }
+  
+  .subscribe #mc_embed_signup label  {
+    font-size: 1.2em;
+  }
+}

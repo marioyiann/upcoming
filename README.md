@@ -5,6 +5,7 @@ UPcoming is a free HTML5/CSS3 Under Construction theme, based on twitter Bootstr
 1. Slideshow on the background
 2. Static background image
 3. No background image
+
 ---
 [Demo](http://marioyiann.com/upcoming/ "UPcoming")
 
